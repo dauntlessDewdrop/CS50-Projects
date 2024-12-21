@@ -1,0 +1,11 @@
+sort1 uses: Bubble Sort
+
+How do you know?: Fast when the list isn't ordered backwards, but runs slow on backwards list.
+
+sort2 uses: merge Sort
+
+How do you know?: Fastest of the three algorithms, in every case.
+
+sort3 uses: Selection sort
+
+How do you know?: Slow both with reversed and random list... Similar times between cases, so big O and Omega are the same.
